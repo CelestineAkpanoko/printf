@@ -17,7 +17,7 @@ va_end (man 3 va_end)
 va_copy (man 3 va_copy)
 va_arg (man 3 va_arg)
 
-#File Description
+# File Description
 print_numbers.c: - contains the functions print_i and print_d, which handle the conversion specifiers i and d, respectively
 print_hex.c: - contains the functions print_hex, which prints an unsigned int in hexidecimal form, print_x, print_X, and print_p, which handle the conversion specifiers x, X, and p, respectively
 print_unsigned_int.c: - contains the functions print_u, print_o, and print_b, which handle the conversion specifiers u, o, and b, respectively
@@ -32,7 +32,7 @@ Write function that produces output with conversion specifiers c, s, and %.
 Handle conversion specifiers. d, i.
 Create a man page for your function.
 
-#Advanced Tasks
+# Advanced Tasks
 Handle conversion specifier b.
 Handle conversion specifiers u, o, x, X.
 Use a local buffer of 1024 chars in order to call write as little as possible.
