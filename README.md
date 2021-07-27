@@ -49,5 +49,5 @@ All above options should work well together.
 
 # Team
 
-Celestine Akpanoko
-Udo Godslove
+Celestine Akpanoko.
+Udo Godslove.
